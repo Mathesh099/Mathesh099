@@ -16,6 +16,8 @@
 
 ## Projects:
 #### Frontend
+This is my first webpage project where i used basic HTML and CSS. 
+By clicking the below gif it will direct you to the frontend repository (branch: project-1) where the project is.
 <a href="https://github.com/Mathesh099/frontend/tree/Project-1"><img src='https://github.com/Mathesh099/frontend/blob/Project-1/Anime%20girl.gif' width="250" ></a>
 
 
