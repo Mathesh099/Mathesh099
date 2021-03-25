@@ -1,6 +1,6 @@
 ### Hi there 👋, I'm Mathesh Kumar
 #### Visualization and Networking
-![Visualization and Networking](https://media-exp1.licdn.com/dms/image/C5616AQG1cvQwLDX44A/profile-displaybackgroundimage-shrink_200_800/0/1616685310981?e=1622073600&v=beta&t=IK6MO36u-pZBgG18SpC2Zdsp2xguqRek2vk02OMFiPQ)
+![Visualization and Networking](https://github.com/Mathesh099/Mathesh099/blob/main/e785d7a108fb82b535ad387cc6a67cf0.jpg)
 
 Currently I'm learning visualization and networking using data visualization tools. I really enjoy doing web development. And I also enjoy learning programming languages like java and c-sharp
 
