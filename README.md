@@ -1,4 +1,4 @@
-![Visualization and Networking](https://github.com/Mathesh099/Mathesh099/blob/main/e785d7a108fb82b535ad387cc6a67cf0.jpg)
+![Visualization and Networking](<img src="/Images/e785d7a108fb82b535ad387cc6a67cf0.jpg">)
 
 ### Hi there 👋, I'm Mathesh Kumar
 🌱 I’m currently learning visualization and networking using data visualization tools. I really enjoy doing web development. And I also enjoy learning programming languages like java and c-sharp.
