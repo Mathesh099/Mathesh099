@@ -21,7 +21,8 @@ This is my first webpage project where i used basic HTML and CSS.
 By clicking the below gif it will direct you to the frontend repository (branch: project-1) where the project is.
 <br>
 <br>
-[<img src="Anime girl/Anime girl.gif" alt='Project-1' width='250'>](https://github.com/Mathesh099/frontend/tree/Project-1)
+<a href="https://github.com/Mathesh099/frontend/tree/Project-1"><img src="Anime girl/Anime girl.gif" width="250" ></a>
+
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mathesh099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mathesh-kumar-106320161/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mathesh__kumar/)  
 
