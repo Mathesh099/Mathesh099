@@ -33,8 +33,6 @@
 - By clicking the below gif it will direct you to the frontend repository (branch: project-1) where the project is
 
 <a href="https://github.com/Mathesh099/frontend/tree/Project-1"><img src="Anime girl/Anime girl.gif" width="250" ></a>
-
-<!---#### 📌 Find me at--->
  
 [<img src=Header/Icons/facebook.png alt='facebook' height='40'>](https://www.facebook.com/mathesh.kumar.142/)
 [<img src=Header/Icons/instagram.png alt='insta' height='40'>](https://www.instagram.com/mathesh__kumar/)
