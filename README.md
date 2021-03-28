@@ -34,7 +34,7 @@
 
 <a href="https://github.com/Mathesh099/frontend/tree/Project-1"><img src="Anime girl/Anime girl.gif" width="250" ></a>
  
-[<img src=Header/Icons/facebook.png alt='facebook' height='40'>](https://www.facebook.com/mathesh.kumar.142/)
-[<img src=Header/Icons/instagram.png alt='insta' height='40'>](https://www.instagram.com/mathesh__kumar/)
-[<img src=Header/Icons/linkedin.png alt='linkedin' height='40'>](https://www.linkedin.com/in/mathesh-kumar-106320161/)
+[<img src=/Icons/facebook.png alt='facebook' height='40'>](https://www.facebook.com/mathesh.kumar.142/)
+[<img src=/Icons/instagram.png alt='insta' height='40'>](https://www.instagram.com/mathesh__kumar/)
+[<img src=/Icons/linkedin.png alt='linkedin' height='40'>](https://www.linkedin.com/in/mathesh-kumar-106320161/)
 
