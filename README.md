@@ -1,6 +1,6 @@
 ![Hi there, How are you doing?](Header/banner-2.svg)
 
-### 🐱‍👤 About Me:
+## 🐱‍👤 About Me:
 - 🌱 I’m currently learning visualization and narrative using data visualization tools
 
 - ❤️ I really enjoy working on 
@@ -16,7 +16,7 @@
 <a href="https://www.linkedin.com/in/mathesh-kumar-106320161/"><img src=Icons/linkedin.png alt='linkedin' height='40'></a>
 <a href="matheshkumar099@gmail.com"><img src=Icons/gmail.png alt='gmail' height='40'></a>--->
 
-### ⚡️ Skills and Tools-used:
+## ⚡️ Skills and Tools-used:
 * Java
 * C#
 * HTML
@@ -27,7 +27,7 @@
 * Qlikview
 * Qliksense
 
-### 💻 Projects:
+## 💻 Projects:
 1. Frontend
 - This is my first webpage project where I used basic HTML and CSS
 
