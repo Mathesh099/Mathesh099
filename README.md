@@ -1,7 +1,7 @@
 ![Hi there, How are you doing?](Header/banner-2.svg)
 
 ## 🐱‍👤 About Me:
-- 🌱 I’m currently learning visualization and narrative using data visualization tools
+- 🌱 I’m currently learning data visualization and data analysis using data visualization tools
 
 - ❤️ I really enjoy working on 
   - Buisness Intelligence tools
