@@ -30,7 +30,7 @@
 ## 💻 Projects:
 1. Frontend
 
-- In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and learning how to use frontend framework.
+- In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
 
 - By clicking the below ``` GIF ``` it will direct you to the webpage I created.
 
