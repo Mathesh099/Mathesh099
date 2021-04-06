@@ -29,6 +29,7 @@
 
 ## 💻 Projects:
 1. Frontend
+
 - This is my first webpage project where I used basic HTML and CSS
 
 - By clicking the below ``` GIF ``` it will direct you to the frontend repository (branch: project-1) where the project is
