@@ -34,7 +34,7 @@
 </p>
 
 ## 💻 Projects:
-<details><summary><b>Frontend:</b></summary>
+<details><summary><b>Frontend</b></summary>
 
 - In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
 
