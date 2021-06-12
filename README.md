@@ -16,17 +16,8 @@
 <a href="https://www.linkedin.com/in/mathesh-kumar-106320161/"><img src=Icons/linkedin.png alt='linkedin' height='40'></a>
 <a href="matheshkumar099@gmail.com"><img src=Icons/gmail.png alt='gmail' height='40'></a>--->
 
-## <details><summary>⚡️ Skills and Tools-used:</summary>
-* Java
-* C#
-* HTML
-* CSS
-* SQL
-* Power BI
-* Tableau
-* Qlikview
-* Qliksense 
-</details>
+## ⚡️ Skills and Tools-used:
+
 
 ## 💻 Projects:
 1. Frontend
