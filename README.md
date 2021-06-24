@@ -1,15 +1,19 @@
 ![Hi there, How are you doing?](Header/banner-2.svg)
 
 ## 🐱‍👤 About Me:
-- 🌱 I’m currently learning data visualization and data analysis using data visualization tools.
 
-- ❤️ I really enjoy working on 
-  - Buisness Intelligence tools
-  - Analytics
-  - Web Development
-  - Programming languages like java and c-sharp
+<p align='center'>
+  22 year old♋, living in India🏡. Currently focused🎯 on working and upskilling myself in data engineering concepts🌱.<br>
+  I started my journey🚗 with sql and data visualization tools like Qlik, MS-power-BI, Tableau. I really enjoyed working on buissnes intelligence tools and analytics❤️. And
+  after gaining some experience in data visualization and narratives📖, entered into big data technology⚡. As working in data engineer domain💻, had an intresting and
+  challenging tasks and works on python and pyspark.<br><br>
+  Now I'm stepping my foot🚶‍♂️ in informatica power center tool and pl/sql concepts😊. Other than DATA field I'm intrested in frontend web development and programming languages
+  like java and c-sharp.
+  <br><br>
+  Apart from technical💻, I love💖 music🎧, flute🎼, anime-naruto fan🐱‍👤, manga📓, volleyball🏐. Always open to connect🤝, feel free to reach out to me. Happy to have a
+  conversation💖🥰
   
-- 🏡 Living in India.
+</p>
 
 <!---<a href="https://www.facebook.com/mathesh.kumar.142/"><img src=Icons/facebook.png alt='facebook' height='40'></a>
 <a href="https://www.instagram.com/mathesh__kumar/"><img src=Icons/instagram.png alt='insta' height='40'></a>
@@ -34,16 +38,16 @@
 </p>
 
 ## 💻 Projects:
-<details><summary><b>Frontend</b></summary>
+<a href="https://mathesh099.github.io/"><img src="Anime girl/Anime girl.gif" width="350" align="right" ></a>
 
-- In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
+ #### 1. <a href="https://github.com/Mathesh099/mathesh099.github.io">Frontend</a> :
+ - In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
+ #### 2. <a href="https://github.com/Mathesh099/Power-BI">Power BI</a> : 
+ - The Sales Report Dashboard is an analyzed report of customer, products and orders fields taken from the sample excel datasets
+ #### 3. <a href="">Tableau</a> :
 
-- By clicking the below ``` GIF ``` it will direct you to the webpage I created.
 
-<a href="https://mathesh099.github.io/"><img src="Anime girl/Anime girl.gif" width="250" ></a>
-</details>
-
-### 📌 Find me at:
+## 📌 Find me at:
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mathesh099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mathesh-kumar-106320161/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mathesh.kumar.142)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mathesh__kumar/)  
 
 
