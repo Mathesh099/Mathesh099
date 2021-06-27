@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/mathesh-kumar-106320161/"><img src=Icons/linkedin.png alt='linkedin' height='40'></a>
 <a href="matheshkumar099@gmail.com"><img src=Icons/gmail.png alt='gmail' height='40'></a>--->
 
-## ⚡️ Skills and Tools-used:
+## ⚡️ Skills and Tools:
 <p align="left">
 <img src=icons/java.png alt='Java'>
 <img src=icons/c-sharp.png alt='C#'>
