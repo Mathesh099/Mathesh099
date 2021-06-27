@@ -43,8 +43,8 @@
  #### 1. <a href="https://github.com/Mathesh099/mathesh099.github.io">Frontend</a> :
  - In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
  #### 2. <a href="https://github.com/Mathesh099/Power-BI">Power BI</a> : 
- - The Sales Report Dashboard is an analyzed report of customer, products and orders fields taken from the sample excel datasets
- #### 3. <a href="">Tableau</a> :
+ - An analyzed report of customer, products and orders fields taken from the sample excel datasets.
+ <!---#### 3. <a href="">Tableau</a> :--->
 
 
 ## 📌 Find me at:
