@@ -38,13 +38,14 @@
 </p>
 
 ## 💻 Projects:
-<a href="https://mathesh099.github.io/"><img src="Anime girl/Anime girl.gif" width="350" align="right" ></a>
+<a href="https://mathesh099.github.io/"><img src="Anime girl/Anime girl.gif" width="380" align="right" ></a>
 
  #### 1. <a href="https://github.com/Mathesh099/mathesh099.github.io">Frontend</a> :
  - In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
  #### 2. <a href="https://github.com/Mathesh099/Power-BI">Power BI</a> : 
  - An analyzed report of customer, products and orders fields taken from the sample excel datasets.
- <!---#### 3. <a href="">Tableau</a> :--->
+ #### 3. <a href="https://github.com/Mathesh099/Tableau">Tableau</a> :
+ - The main purpose of this use case is to distinguish the adult literacy rate of male and female in Africa. The business intelligence tool used here is Tableau.
 
 
 ## 📌 Find me at:
