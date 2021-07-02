@@ -1,6 +1,6 @@
 ![Hi there, How are you doing?](Header/banner-2.svg)
 
-## 🐱‍👤 About Me:
+## 🐱‍👤 About Me :
 
 <p align='center'>
   22 year old♋, living in India🏡. Currently focused🎯 on working and upskilling myself in data engineering concepts🌱.<br>
@@ -20,7 +20,7 @@
 <a href="https://www.linkedin.com/in/mathesh-kumar-106320161/"><img src=Icons/linkedin.png alt='linkedin' height='40'></a>
 <a href="matheshkumar099@gmail.com"><img src=Icons/gmail.png alt='gmail' height='40'></a>--->
 
-## ⚡️ Skills and Tools:
+## ⚡️ Skills and Tools :
 <p align="left">
 <img src=icons/java.png alt='Java'>
 <img src=icons/c-sharp.png alt='C#'>
@@ -37,7 +37,7 @@
 <img src=icons/pycharm.png alt='Pycharm IDE'>
 </p>
 
-## 💻 Projects:
+## 💻 Projects :
 <a href="https://mathesh099.github.io/"><img src="Anime girl/Anime girl.gif" width="350" align="right" ></a>
 
  #### 1. <a href="https://github.com/Mathesh099/mathesh099.github.io">Frontend</a> :
@@ -48,7 +48,7 @@
  - The main purpose of this use case is to distinguish the adult literacy rate of male and female in Africa.
 
 
-## 📌 Find me at:
+## 📌 Find me at :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mathesh099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mathesh-kumar-106320161/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mathesh.kumar.142)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mathesh__kumar/)  
 
 
