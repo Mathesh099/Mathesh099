@@ -46,7 +46,7 @@
  - An analyzed report of customer, products and orders fields taken from the sample excel datasets.
  #### 3. <a href="https://github.com/Mathesh099/Tableau">Tableau</a> :
  - The main purpose of this use case is to distinguish the adult literacy rate of male and female in Africa.
-
+ <!----#### 4. <a href="">Python</a> :--->
 
 ## 📌 Find me at :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mathesh099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mathesh-kumar-106320161/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mathesh.kumar.142)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mathesh__kumar/)  
