@@ -38,7 +38,7 @@
 </p>
 
 ## 💻 Projects :
-<a href="https://mathesh099.github.io/"><img src="Anime girl/Anime girl.gif" width="350" align="right" ></a>
+<a href="https://mathesh099.github.io/anime-waver.github.io/"><img src="Anime girl/Anime girl.gif" width="350" align="right" ></a>
 
  #### 1. <a href="https://github.com/Mathesh099/mathesh099.github.io">Frontend</a> :
  - In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
