@@ -4,13 +4,13 @@
 
 <p align='center'>
   22 year old♋, living in India🏡. Currently focused🎯 on working and upskilling myself in data engineering concepts🌱.<br>
-  I started my journey🚗 with sql and data visualization tools like Qlik, MS-power-BI, Tableau. I really enjoyed working on buissnes intelligence tools and analytics❤️. And
-  after gaining some experience in data visualization and narratives📖, entered into big data technology⚡. As working in data engineer domain💻, had an intresting and
+  I started my journey🚗 with sql and data visualization tools like Qlik, MS-power-BI, Tableau. I really enjoyed working on buissnes intelligence tools and analytics. And
+  after gaining some experience in data visualization and narratives, entered into big data technology. As working in data engineer domain, had an intresting and
   challenging tasks and works on python and pyspark.<br><br>
-  Now I'm stepping my foot🚶‍♂️ in informatica power center tool and pl/sql concepts😊. Other than DATA field I'm intrested in frontend web development and programming languages
+  Now I'm learning informatica power center tool and pl/sql concepts😊. Other than DATA field I'm intrested in frontend web development and programming languages
   like java and c-sharp.
   <br><br>
-  Apart from technical💻, I love💖 music🎧, flute🎼, anime-naruto fan🐱‍👤, manga📓, volleyball🏐. Always open to connect🤝, feel free to reach out to me. Happy to have a
+  Apart from technical💻, I love💖 music, flute, anime(naruto fan), manga, volleyball. Always open to connect🤝, feel free to reach out to me. Happy to have a
   conversation💖🥰
   
 </p>
@@ -38,7 +38,7 @@
 </p>
 
 ## 💻 Projects :
-<a href="https://mathesh099.github.io/anime-waver.github.io/"><img src="Anime girl/Anime girl.gif" width="350" align="right" ></a>
+<a href="https://mathesh099.github.io/anime-waver.github.io/"><img src="Anime girl/Anime girl.gif" width="400" align="right" ></a>
 
  #### 1. <a href="https://github.com/Mathesh099/mathesh099.github.io">Frontend</a> :
  - In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
