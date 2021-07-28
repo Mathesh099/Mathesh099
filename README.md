@@ -40,13 +40,13 @@
 ## 💻 Projects :
 <a href="https://mathesh099.github.io/anime-waver.github.io/"><img src="Anime girl/Anime girl.gif" width="400" align="right" ></a>
 
- #### 1. <a href="https://github.com/Mathesh099/mathesh099.github.io">Frontend</a> :
+ ### 1. <a href="https://github.com/Mathesh099/mathesh099.github.io">Frontend</a> :
  - In this project I used HTML5 and CSS3 tech skills. I'm planning to work on this project more by using javascript and frontend framework.
- #### 2. <a href="https://github.com/Mathesh099/Power-BI">Power BI</a> : 
+ ### 2. <a href="https://github.com/Mathesh099/Power-BI">Power BI</a> : 
  - An analyzed report of customer, products and orders fields taken from the sample excel datasets.
- #### 3. <a href="https://github.com/Mathesh099/Tableau">Tableau</a> :
+ ### 3. <a href="https://github.com/Mathesh099/Tableau">Tableau</a> :
  - The main purpose of this use case is to distinguish the adult literacy rate of male and female in Africa.
- <!----#### 4. <a href="">Python</a> :--->
+ <!----### 4. <a href="">Python</a> :--->
 
 ## 📌 Find me at :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mathesh099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mathesh-kumar-106320161/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mathesh.kumar.142)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mathesh__kumar/)  
