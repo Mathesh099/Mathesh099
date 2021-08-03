@@ -3,7 +3,7 @@
 ## 🐱‍👤 About Me :
 
 <p align='center'>
-  22 year old♋, living in India🏡. Currently focused🎯 on working and upskilling myself in data engineering concepts🌱.<br>
+  22 year old♋, living in India🏡. Currently focused🎯 on working and upskilling myself in data engineering field🌱.<br>
   I started my journey🚗 with sql and data visualization tools like Qlik, MS-power-BI, Tableau. I really enjoyed working on buissnes intelligence tools and analytics. And
   after gaining some experience in data visualization and narratives, entered into big data technology. As working in data engineer domain, had an intresting and
   challenging tasks and works on python and pyspark.<br><br>
