@@ -15,11 +15,6 @@
   
 </p>
 
-<!---<a href="https://www.facebook.com/mathesh.kumar.142/"><img src=Icons/facebook.png alt='facebook' height='40'></a>
-<a href="https://www.instagram.com/mathesh__kumar/"><img src=Icons/instagram.png alt='insta' height='40'></a>
-<a href="https://www.linkedin.com/in/mathesh-kumar-106320161/"><img src=Icons/linkedin.png alt='linkedin' height='40'></a>
-<a href="matheshkumar099@gmail.com"><img src=Icons/gmail.png alt='gmail' height='40'></a>--->
-
 ## ⚡️ Skills and Tools :
 <p align="left">
 <img src=icons/java.png alt='Java'>
@@ -50,7 +45,4 @@
 
 ## 📌 Find me at :
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/Mathesh099)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/mathesh-kumar-099/)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/facebook.svg' alt='facebook' height='40'>](https://www.facebook.com/mathesh.kumar.142)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/instagram.svg' alt='instagram' height='40'>](https://www.instagram.com/mathesh__kumar/)
-<!-- <div class="badge-base LI-profile-badge" data-locale="en_US" data-size="large" data-theme="dark" data-type="HORIZONTAL" data-vanity="mathesh-kumar-106320161" data-version="v1"><a class="badge-base__link LI-simple-link" href="https://in.linkedin.com/in/mathesh-kumar-106320161?trk=profile-badge">Mathesh Kumar</a></div> --->
-
-<!--- www.linkedin.com/in/mathesh-kumar-099 --->
 
