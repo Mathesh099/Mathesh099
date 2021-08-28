@@ -3,7 +3,7 @@
 ## 🐱‍👤 About Me :
 
 <p align='center'>
-  22 year old♋, B.E graduate in electrical and electronics living in India🏡. Currently focused🎯 on working and upskilling myself in data science🌱.<br>
+  22 year old♋, B.E graduate in electrical and electronics. Living in India🏡. Currently focused🎯 on working and upskilling myself in data science🌱.<br>
   I started my journey🚗 with sql and data visualization tools like Qlik, MS-power-BI, Tableau. I really enjoyed working on buissnes intelligence tools and analytics. And
   after gaining some experience in data visualization and narratives, entered into big data technology. As working in data engineer domain, had an intresting and
   challenging tasks on python and pyspark.<br><br>
