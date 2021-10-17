@@ -5,7 +5,7 @@
 <p align='center'>
   22 year old♋, B.E graduate living in India🏡. Currently focused🎯 on working and upskilling myself in data science🌱.<br>
   I started my journey🚗 with sql and data visualization tools like Qlik, MS-power-BI, Tableau. I really enjoyed working on buissnes intelligence tools and analytics. And
-  after gaining some experience in data visualization and narratives, entered into big data technology. As working in data engineer domain, had an intresting and
+  after gaining some experience in data visualization, I've entered into big data technology. As working in data engineer domain, I had an intresting and
   challenging tasks on python and pyspark.<br><br>
   Now I'm learning informatica power center tool and pl/sql concepts😊. Other than DATA SCIENCE I like to work in frontend web development and programming languages
   like java and c-sharp.
