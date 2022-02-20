@@ -4,8 +4,7 @@
 
 <p align='center'>
   22 year old♋, B.E graduate living in India🏡. Currently focused🎯 on working and upskilling myself in data integration🌱.<br>
-  I started my journey🚗 with sql and data visualization tools like <b>Qlik, MS-power-BI, Tableau</b>. I really enjoyed working on buissnes intelligence tools and analytics.     And after gaining some experience in data visualization, I had a chance to get my hands into big data technology. As working in data engineer domain, I had an intresting and
-  challenging tasks on python and pyspark.<br><br>
+  I started my journey🚗 with <b>SQL</b> and data visualization tools like <b>Qlik, MS-power-BI, Tableau</b>. I really enjoyed working on buissnes intelligence tools and         analytics. And after gaining some experience in data visualization, I had a chance to get my hands into big data technology. As working in data engineer domain, I had an         intresting and challenging tasks on python and pyspark.<br><br>
   Now I'm working in development of ETL pipelines using <b>Informatica PowerCenter tool</b>😊. I also like to work in frontend web development and programming languages
   like java and c-sharp.
   <br><br>
